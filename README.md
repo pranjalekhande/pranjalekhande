@@ -5,7 +5,7 @@ I am a dedicated Software Engineer with over three years of experience in Full-S
 
 🔧 Skills: Python, Java (Springboot), C/C++, TypeScript, SQL (Dockerized PostgreSQL), Angular8, Ansible
 
-💼 Current Position: Graduate Teaching Assistant, Boston University
+💼 Current Position: Graduate Teaching Fellow, Boston University
 
 🎓 Education: Master of Computer Science, Boston University, Expected Dec 2024 
 
