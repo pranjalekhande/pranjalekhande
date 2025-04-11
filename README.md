@@ -13,6 +13,6 @@ I am a dedicated Software Engineer with over three years of experience in Full-S
 
 🌍 Location: Boston, USA
 
-💬 Contact: [Email: pranjalbuilds@gmail.com](mailto:pranjalbuilds@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/pranjal-e).
+💬 Contact: [Email: pranjalbuilds@gmail.com ](mailto:pranjalbuilds@gmail.com)  |  [LinkedIn: pranjal-e ](https://www.linkedin.com/in/pranjal-e).
 
 
